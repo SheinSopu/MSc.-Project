@@ -9,7 +9,7 @@ import json
 import os
 
 #### Set your Slack or Teams or Mattermost webhook here
-webhook_url = "https://hooks.slack.com/services/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"
+webhook_url = "https://hooks.slack.com/services/xyz"
 
 #### Set the name of this honeypot instance here
 
